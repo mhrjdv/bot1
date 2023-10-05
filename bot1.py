@@ -2,7 +2,7 @@ from typing import Any
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN: Any = '6658164503:AAHh9Cjbeg830fHw4y5OyYXQ9CXlWh0NA1I'
+TOKEN: Any = '6658164503:AAHh9Cjbsdsdsy5OyYXQ9CXlWh0NA1I'
 BOT_USERNAME: Any = '@CU_QuickAccess_bot'
 
 
